@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Violation bit using Manchester BiPhase-L encoding
-# Github: https://github.com/kozyol/ViolationBit
+# Github: https://github.com/Kourva/ViolationBit
 
 # Standard library imports
 import typing
