@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=400 align="right" src="https://github.com/kozyol/ViolationBit/assets/118578799/ffbff4e9-a1a6-4f23-a4b6-f9207213943d" />
+  <img width=400 align="right" src="https://github.com/Kourva/ViolationBit/assets/118578799/ffbff4e9-a1a6-4f23-a4b6-f9207213943d" />
   <h3 align="left">Violation Bit</h3>
   <p align="left">Violation bit simulator using Manchester II (BiPhase-L)</p>
   <p align="left">G. E. Thomas convention</p>
@@ -11,7 +11,7 @@
 
 + Clone repository
     ```bash
-    git clone https://github.com/kozyol/ViolationBit
+    git clone https://github.com/Kourva/ViolationBit
     ```
 
 + Navigate to ViolationBit
